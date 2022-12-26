@@ -17,4 +17,4 @@ simhash-py==0.4.0
 six==1.13.0
 soupsieve==1.9.5
 warcio==1.7.1
-wheel==0.33.6
+wheel==0.38.1
